@@ -29,4 +29,5 @@ Regular paragraph text. Leave a blank line between paragraphs.
 
 ![Image caption](/images/my-photo.jpg)
 
-That's it — save the file, commit, and push. The site rebuilds automatically.
+That's it — click "Commit changes" on GitHub. The site rebuilds automatically.
+(See WRITING-GUIDE.md for the full step-by-step, all in the browser.)
