@@ -1,7 +1,7 @@
 
 ---
 Title: "The other side of my dissertation"
-date: 2026-07-01T00:00:00Z
+date: 2026-07-03T00:00:00Z
 draft: false
 tags: ["life"]
 summary: "Preface."
